@@ -1,0 +1,11 @@
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\bin\Debug\HeroCreatorRPG.exe.config
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\bin\Debug\HeroCreatorRPG.exe
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\bin\Debug\HeroCreatorRPG.pdb
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\PlayerCreator.csprojAssemblyReference.cache
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\HeroCreatorRPG.Form1.resources
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\HeroCreatorRPG.Properties.Resources.resources
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\PlayerCreator.csproj.GenerateResource.cache
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\PlayerCreator.csproj.CoreCompileInputs.cache
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\HeroCreatorRPG.exe
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\HeroCreatorRPG.pdb
+C:\Users\MrJW3\source\repos\HeroCreatorRPG\HeroCreatorRPG\obj\Debug\HeroCreatorRPG.playerPreview.resources
